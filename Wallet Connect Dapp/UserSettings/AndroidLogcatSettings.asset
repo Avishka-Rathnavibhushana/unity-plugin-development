@@ -1,0 +1,161 @@
+{
+    "m_SelectedDeviceId": "R58N90773WT",
+    "m_SelectedPackage": {
+        "deviceId": "R58N90773WT",
+        "name": "com.DefaultCompany.WalletConnectDapp",
+        "processId": 1497,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "R58N90773WT",
+            "name": "com.sec.android.app.launcher",
+            "processId": 5891,
+            "exited": false
+        },
+        {
+            "deviceId": "R58N90773WT",
+            "name": "com.DefaultCompany.WalletConnectDapp",
+            "processId": 25094,
+            "exited": true
+        },
+        {
+            "deviceId": "R58N90773WT",
+            "name": "com.DefaultCompany.WalletConnectDapp",
+            "processId": 28635,
+            "exited": false
+        },
+        {
+            "deviceId": "R58N90773WT",
+            "name": "com.DefaultCompany.WalletConnectDapp",
+            "processId": 1288,
+            "exited": false
+        },
+        {
+            "deviceId": "R58N90773WT",
+            "name": "com.DefaultCompany.WalletConnectDapp",
+            "processId": 7798,
+            "exited": false
+        },
+        {
+            "deviceId": "R58N90773WT",
+            "name": "com.DefaultCompany.WalletConnectDapp",
+            "processId": 9151,
+            "exited": false
+        },
+        {
+            "deviceId": "R58N90773WT",
+            "name": "com.DefaultCompany.WalletConnectDapp",
+            "processId": 12862,
+            "exited": false
+        },
+        {
+            "deviceId": "R58N90773WT",
+            "name": "com.DefaultCompany.WalletConnectDapp",
+            "processId": 15501,
+            "exited": false
+        },
+        {
+            "deviceId": "R58N90773WT",
+            "name": "com.DefaultCompany.WalletConnectDapp",
+            "processId": 17573,
+            "exited": false
+        },
+        {
+            "deviceId": "R58N90773WT",
+            "name": "com.DefaultCompany.WalletConnectDapp",
+            "processId": 18642,
+            "exited": false
+        },
+        {
+            "deviceId": "R58N90773WT",
+            "name": "com.DefaultCompany.WalletConnectDapp",
+            "processId": 20141,
+            "exited": false
+        },
+        {
+            "deviceId": "R58N90773WT",
+            "name": "com.DefaultCompany.WalletConnectDapp",
+            "processId": 21852,
+            "exited": false
+        },
+        {
+            "deviceId": "R58N90773WT",
+            "name": "com.DefaultCompany.WalletConnectDapp",
+            "processId": 23439,
+            "exited": false
+        },
+        {
+            "deviceId": "R58N90773WT",
+            "name": "com.DefaultCompany.WalletConnectDapp",
+            "processId": 30614,
+            "exited": false
+        },
+        {
+            "deviceId": "R58N90773WT",
+            "name": "com.DefaultCompany.WalletConnectDapp",
+            "processId": 342,
+            "exited": false
+        },
+        {
+            "deviceId": "R58N90773WT",
+            "name": "com.DefaultCompany.WalletConnectDapp",
+            "processId": 1497,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
